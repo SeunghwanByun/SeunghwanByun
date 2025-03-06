@@ -15,6 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 🚀 Welcome to My GitHub  
+
+👋 Hi, I’m a **LiDAR & Computer Vision Engineer** specializing in **SLAM, Perception, and Object Tracking**.  
+I love working with **C++**, **computer vision**, and **robotics**, solving complex real-time problems in **autonomous systems**.
+
+### 🔥 What I’m Working On  
+- 🚗 **LiDAR-based perception algorithms** (object tracking, lane detection, Kalman filtering)  
+- 🏠 **Indoor SLAM application** for real-time mapping & AI-driven interior design  
+- 🛠️ **C++ libraries & high-performance computing for robotics applications**  
+
+### 🛠️ Tech Stack  
+💻 C++ | Python | OpenCV | PCL | ROS | CUDA | AI & Deep Learning  
+
+### 📫 Connect With Me  
+- **LinkedIn**: [linkedin.com/in/yourprofile](#)  
+- **GitHub**: [github.com/yourusername](#)  
+
+Let’s build something amazing together! 🚀  
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=SeunghwanByun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeunghwanByun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
