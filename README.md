@@ -29,8 +29,8 @@ I love working with **C++**, **computer vision**, and **robotics**, solving comp
 💻 C++ | Python | OpenCV | PCL | ROS | CUDA | AI & Deep Learning  
 
 ### 📫 Connect With Me  
-- **LinkedIn**: [linkedin.com/in/yourprofile](#)  
-- **GitHub**: [github.com/yourusername](#)  
+- **LinkedIn**: [linkedin.com/in/seunghwan-byun-450668102](#)  
+- **GitHub**: [github.com/SeunghwanByun](#)  
 
 Let’s build something amazing together! 🚀  
 
