@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 🚀 Welcome to My GitHub  
 
-👋 Hi, I’m a **LiDAR & Computer Vision Engineer** specializing in **SLAM, Perception, and Object Tracking**.  
+👋 Hi, I’m a **LiDAR & Computer Vision Engineer** specializing in **Perception, and Object Tracking**.  
 I love working with **C++**, **computer vision**, and **robotics**, solving complex real-time problems in **autonomous systems**.
 
 ### 🔥 What I’m Working On  
